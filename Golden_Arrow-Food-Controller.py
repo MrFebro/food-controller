@@ -1,3 +1,8 @@
+#By: Luis Febro
+#Goal: A programmatic approach to manage food goods better based on the type and quantity.
+#Code written in Brazilian Portuguese Language for User Interface, but instructions in English.
+#Date: 06/20/19
+
 # IMPORTS
 from datetime import *
 import math
